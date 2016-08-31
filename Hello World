@@ -1,0 +1,12 @@
+Enter file contents here
+
+package gittask;
+
+public class GitTask {
+   
+    public static void main(String[] args)
+    {
+        System.out.println("Hello World");
+    }
+    
+}
